@@ -14,7 +14,7 @@ Building intelligent systems for visual understanding, behavior generation, and 
 
 <p align="center">
   <a href="https://amramer.github.io/">
-    <img src="Amr-Amer-Business-Card.jpeg" alt="Amr Amer Business Card" width="500" />
+    <img src="Amr-Amer-Business-Card.jpeg" alt="Amr Amer Business Card" width="550" />
   </a>
 </p>
 
