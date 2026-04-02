@@ -48,7 +48,14 @@ Building intelligent systems for visual understanding, behavior generation, and 
 ---
 
 ### 🏸 [Badminton-VisionAI](https://github.com/amramer/Badminton-visionAI)
-**End-to-end computer vision pipeline** for badminton match analysis: player/shuttle tracking, shot detection, mini-court projection, and coach-style performance reports.
+**End-to-end computer vision pipeline** for badminton match analysis that converts badminton match videos into structured performance analytics for players and coaches.
+
+The system tracks both players and the shuttlecock, detects shot events, projects motion onto a mini-court representation, and generates a downloadable coach-style performance report.
+
+  <p align="center">
+      <img src="https://raw.githubusercontent.com/amramer/Badminton-visionAI/blob/main/demos/badminton-visionAI_01.gif" width="80%" alt="Generated avatars">
+  </p>
+
 - **Tech Stack:** OpenCV, YOLO, Streamlit, Plotly
 - **Demo:** [Live Demo](https://badminton-visionai-web.onrender.com/) | [Pipeline Video](https://www.youtube.com/watch?v=dAe9e_1AGuA) | [Dashboard Video](https://www.youtube.com/watch?v=Bc2JLifgjzI)
 
