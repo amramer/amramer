@@ -81,7 +81,10 @@ An end-to-end workflow for **multi-label brain tumor segmentation** from 3D mult
 ---
 
 ### 🎥 [Realtime Vision Captioning](https://github.com/amramer/realtime-vision-captioning)
-**Realtime image captioning** and visual question answering using BLIP and ResNet-50, deployed as a Gradio webcam application.
+This repository contains a curated set of Jupyter notebooks demonstrating core computer vision and vision–language capabilities using **VLM foundation models**. The notebooks progress from offline **image understanding** tasks to a **realtime webcam application** that performs **image captioning** and **image classification** on live video streams.
+  <p align="center">
+      <img src="https://raw.githubusercontent.com/amramer/realtime-vision-captioning/main/assets/realtime-app.gif" width="100%" alt="Vision-Langauge Models Application">
+  </p>
 - **Tech Stack:** PyTorch, Hugging Face Transformers, Gradio
 
 ---
