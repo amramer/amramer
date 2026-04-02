@@ -3,11 +3,11 @@
 -->
 
 <h1 align="center">Hi 👋, I'm Amr Amer</h1>
-<h3 align="center">Machine Learning Engineer   Computer Vision | Multimodal Generative Models</h3>
+<h3 align="center">Machine Learning Engineer | Computer Vision | Multimodal Generative Models</h3>
 
 <p align="center">
   <a href="https://amramer.github.io/">
-    <img src="Amr-Amer-Business-Card.jpeg" alt="Amr Amer Business Card" width="400" />
+    <img src="Amr-Amer-Business-Card.jpeg" alt="Amr Amer Business Card" width="500" />
   </a>
 </p>
 
@@ -24,7 +24,13 @@
 ## 🚀 Featured Projects
 
 ### 🎓 [Master’s Thesis: Personality-Aware Non-verbal Behavior Generation](https://github.com/amramer/Personality-Aware-Non-verbal-Behavior-Generation)
-**Multimodal generative model** for realistic listener avatars in dyadic conversations, conditioned on personality traits.
+**Multimodal generative model** for generating realistic listener avatars in dyadic conversations, conditioned on personality traits.
+  The model predicts facial expressions, head motion, and upper-body gestures of a listener from the speaker’s audio and motion signals.
+  
+  <p align="center">
+  <img src="{{ '/assets/final-avatars.gif' | relative_url }}" width="78%" alt="Generated avatars">
+</p>
+  
 - **Tech Stack:** PyTorch, Transformers, VQ-VAE, SMPL-X
 - **Demo:** [Thesis Website](https://thesis-website-3sxt.onrender.com/)
 - **Paper:** [Full Thesis Document](https://github.com/amramer/Personality-Aware-Non-verbal-Behavior-Generation/blob/main/docs/Thesis_final_doc.pdf)
