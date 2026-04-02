@@ -13,6 +13,10 @@ Building intelligent systems for visual understanding, behavior generation, and 
 </p>
 
 <p align="center">
+<img src="https://komarev.com/ghpvc/?username=amramer&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+<p align="center">
   <a href="https://amramer.github.io/">
     <img src="Amr-Amer-Business-Card.jpeg" alt="Amr Amer Business Card" width="500" />
   </a>
