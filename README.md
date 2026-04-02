@@ -1,17 +1,5 @@
-
 <!--
 **amramer/amramer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
 ## 📇 Business Card
@@ -24,63 +12,54 @@ Here are some ideas to get you started:
 
 ## 🚀 Projects
 
-### 🏸 Badminton AI Analytics
-Computer vision system for badminton match analysis with player and ball tracking.  
-Includes shot type detection, shot power estimation, and mini-court projection for tactical analysis.
-
-**Repository:** https://github.com/YOUR_USERNAME/badminton-ai  
-**Demo:** https://github.com/YOUR_USERNAME/badminton-ai#demo
+### 🎓 Master’s Thesis: Personality-Aware Non-verbal Behavior Generation
+Multimodal generative model for realistic listener avatars in dyadic conversations, conditioned on personality traits.
+**Repository:** [GitHub](https://github.com/amramer/Personality-Aware-Non-verbal-Behavior-Generation)
+**Demo:** [Thesis Website](https://thesis-website-3sxt.onrender.com/)
 
 ---
 
-### 🎯 Badminton Shot Type Detection
-Deep learning pipeline that classifies badminton shots such as smash, clear, and serve.  
-Includes prediction stabilization, player matching, and annotated video export.
-
-**Repository:** https://github.com/YOUR_USERNAME/shot-detection  
-**Demo:** https://github.com/YOUR_USERNAME/shot-detection#demo
+### 🏸 Badminton-VisionAI — AI Match Analytics from Video
+End-to-end computer vision pipeline for badminton match analysis: player/shuttle tracking, shot detection, mini-court projection, and coach-style performance reports.
+**Repository:** [GitHub](https://github.com/amramer/Badminton-visionAI)
+**Demo:** [Live Demo](https://badminton-visionai-web.onrender.com/)   [Pipeline Video](https://www.youtube.com/watch?v=dAe9e_1AGuA) | [Dashboard Video](https://www.youtube.com/watch?v=Bc2JLifgjzI)
 
 ---
 
-### 📊 Sports Analytics Dashboard
-Interactive dashboard for visualizing player performance metrics.  
-Displays speed, distance covered, acceleration, and shot power comparisons.
-
-**Repository:** https://github.com/YOUR_USERNAME/sports-dashboard  
-**Demo:** https://github.com/YOUR_USERNAME/sports-dashboard#demo
+### 🚗 Semantic Segmentation for Autonomous Vehicles
+End-to-end semantic segmentation of urban street scenes using BDD100K dataset. Achieved mIoU ≈ 0.45 with strong performance on road and vehicle classes.
+**Repository:** [GitHub](https://github.com/amramer/Semantic-Segmentation-Model-for-Autonomous-Vehicles-An-End-to-End-ML-Workflow)
 
 ---
 
-### 🎥 Object Tracking System
-Multi-object tracking system built with computer vision and deep learning.  
-Tracks players across video frames and generates structured analytics outputs.
-
-**Repository:** https://github.com/YOUR_USERNAME/object-tracking  
-**Demo:** https://github.com/YOUR_USERNAME/object-tracking#demo
+### 🩺 3D Brain Tumor Segmentation (MRI)
+Multi-label 3D semantic segmentation of glioma sub-regions from volumetric MRI scans using MONAI and 3D SegResNet. Mean Dice = 0.78 on validation.
+**Repository:** [GitHub](https://github.com/amramer/brain-tumor-segmentation-3D-DeepLearning)
 
 ---
 
-### 🤖 AI Vision Experiments
-Collection of computer vision experiments and prototypes.  
-Includes detection models, tracking pipelines, and sports-related AI research tests.
+### 🎙️ AI Conversational Agent with Voice, Avatar, and Web Interface
+Conversational AI system with real-time voice/text interaction, LLM-powered reasoning, and a human-like conversational avatar.
+**Repository:** [GitHub](https://github.com/amramer/AI-Conversational-Agent)
+**Status:** 🚧 Ongoing
 
-**Repository:** https://github.com/YOUR_USERNAME/vision-experiments  
-**Demo:** https://github.com/YOUR_USERNAME/vision-experiments#demo
+---
+
+### 🎥 Realtime Vision Captioning
+Realtime image captioning and visual question answering using BLIP and ResNet-50, deployed as a Gradio webcam application.
+**Repository:** [GitHub](https://github.com/amramer/realtime-vision-captioning)
 
 ---
 
 ## 🌐 Portfolio
-
 More details about my projects and work:
-
-**Portfolio:**  
-https://YOUR_PORTFOLIO_LINK
+**Portfolio:** [amramer.github.io](https://amramer.github.io/)
 
 ---
 
 ## 🧠 Technical Focus
-
-Computer Vision  
-AI for Sports Analytics  
-Object Detection & Tracking  
-Video Analysis Systems
+- Computer Vision
+- AI for Sports Analytics
+- Object Detection & Tracking
+- Video Analysis Systems
+- Multimodal Generative Models
