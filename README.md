@@ -98,7 +98,7 @@ This repository contains a curated set of Jupyter notebooks demonstrating core c
       <img src="https://raw.githubusercontent.com/amramer/realtime-vision-captioning/main/assets/realtime-app.gif" width="100%" alt="Vision-Langauge Models Application">
   </p>
 
-- **Tech Stack:** PyTorch · Torchvision · Hugging Face Transformers · Gradio · PIL · VLM
+- **Tech Stack:** PyTorch · Torchvision · Hugging Face Transformers · Gradio · PIL · VLM · Realtime inference
 ---
 
 ### 🎙️ [AI Conversational Agent](https://github.com/amramer/AI-Conversational-Agent) (Ongoing)
