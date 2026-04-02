@@ -80,15 +80,15 @@ An end-to-end workflow for **multi-label brain tumor segmentation** from 3D mult
 
 ---
 
-### 🎙️ [AI Conversational Agent](https://github.com/amramer/AI-Conversational-Agent) (Ongoing)
-**Conversational AI system** with real-time voice/text interaction, LLM-powered reasoning, and a human-like conversational avatar.
-- **Tech Stack:** Python, OpenAI GPT, Speech-to-Text, Text-to-Speech, Gradio
-
----
-
 ### 🎥 [Realtime Vision Captioning](https://github.com/amramer/realtime-vision-captioning)
 **Realtime image captioning** and visual question answering using BLIP and ResNet-50, deployed as a Gradio webcam application.
 - **Tech Stack:** PyTorch, Hugging Face Transformers, Gradio
+
+---
+
+### 🎙️ [AI Conversational Agent](https://github.com/amramer/AI-Conversational-Agent) (Ongoing)
+**Conversational AI system** with real-time voice/text interaction, LLM-powered reasoning, and a human-like conversational avatar.
+- **Tech Stack:** Python, OpenAI GPT, Speech-to-Text, Text-to-Speech, Gradio
 
 ---
 
@@ -100,7 +100,7 @@ For more details about my work and projects, visit my [portfolio website](https:
 ## 🧠 Technical Focus
  | Area                     | Skills & Tools                                                                 |
  |--------------------------|---------------------------------------------------------------------------------|
- | **Computer Vision**      | Object Detection, Segmentation, Tracking, Video Motion Analysis, Digital Avatars |
+ | **Computer Vision**      | Object Detection, Segmentation, Tracking, Video Motion Analysis, Digital Human Models |
  | **Models & Frameworks**  | PyTorch, TensorFlow, OpenCV, YOLO, Vision Transformers (ViT), Supervision         |
  | **Training & Evaluation**| Transfer Learning, Hyperparameter Optimization, Weights & Biases, TensorBoard    |
  | **Deployment**           | Docker, AWS (EC2 GPU), Streamlit, Batch & Real-time Inference                    |
