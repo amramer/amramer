@@ -28,8 +28,8 @@
   The model predicts facial expressions, head motion, and upper-body gestures of a listener from the speaker’s audio and motion signals.
   
   <p align="center">
-  <img src="{{ 'https://github.com/amramer/Personality-Aware-Non-verbal-Behavior-Generation/assets/final-avatars.gif' | relative_url }}" width="78%" alt="Generated avatars">
-</p>
+    <img src="https://raw.githubusercontent.com/amramer/Personality-Aware-Non-verbal-Behavior-Generation/master/assets/final-avatars.gif" width="78%" alt="Generated avatars">
+  </p>
   
 - **Tech Stack:** PyTorch, Transformers, VQ-VAE, SMPL-X
 - **Demo:** [Thesis Website](https://thesis-website-3sxt.onrender.com/)
