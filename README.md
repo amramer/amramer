@@ -62,8 +62,8 @@ The system tracks both players and the shuttlecock, detects shot events, project
 ---
 
 ### 🚗 [Semantic Segmentation for Autonomous Vehicles](https://github.com/amramer/Semantic-Segmentation-Model-for-Autonomous-Vehicles-An-End-to-End-ML-Workflow)
-This project focuses on semantic segmentation using the BDD100K dataset, a large-scale, diverse dataset for autonomous driving. 
-The main objective is to accurately segment and identify various objects in street scenes, which is important for improving the AI perception vision of autonomous vehicles.
+This project focuses on **semantic segmentation** using the BDD100K dataset, a large-scale, diverse dataset for autonomous driving. 
+The main objective is to accurately segment and identify various objects in street scenes, which is important for improving the **AI perception** vision of **autonomous vehicles**.
   <p align="center">
       <img src="https://raw.githubusercontent.com/amramer/Semantic-Segmentation-for-Autonomous-Vehicles/main/media/final_segmentation.gif" width="100%" alt="autonmous driving">
   </p>
