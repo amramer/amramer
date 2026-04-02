@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="Amr-Amer-Business-Card.jpeg" width="400">
+  <img src="Amr-Amer-Business-Card.jpeg" width="600">
 </p>
