@@ -90,7 +90,7 @@ This repository contains a curated set of Jupyter notebooks demonstrating core c
 ---
 
 ### 🎙️ [AI Conversational Agent](https://github.com/amramer/AI-Conversational-Agent) (Ongoing)
-**Conversational AI-Bot** is more than just a chatbot with real-time voice/text interaction, LLM-powered reasoning, and a digital human conversational model.
+  This AI Agent is more than just a chatbot. It is real-time voice/text interaction, LLM-powered reasoning, and a digital human conversational model.
   <p align="center">
       <img src="https://raw.githubusercontent.com/amramer/amramer.github.io/main/assets/AI-conversationa-assistant.png" width="100%" alt="Conversation AI Bot">
   </p>
