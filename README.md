@@ -73,9 +73,10 @@ The main objective is to accurately segment and identify various objects in stre
 ---
 
 ### 🩺 [3D Brain Tumor Segmentation (MRI)](https://github.com/amramer/brain-tumor-segmentation-3D-DeepLearning)
-**Multi-label 3D semantic segmentation** of glioma sub-regions from volumetric MRI scans.
-- **Achievements:** Mean Dice = 0.78 on validation
-- **Tech Stack:** PyTorch, MONAI, 3D SegResNet
+An end-to-end workflow for **multi-label brain tumor segmentation** from 3D multimodal MRI scans. The project targets segmentation of **glioma subregions** (tumor core, whole tumor, enhancing tumor) using a **3D SegResNet model**.
+  <p align="center">
+      <img src="https://raw.githubusercontent.com/amramer/brain-tumor-segmentation-3D-DeepLearning/main/assets/visualize-dec-dataset.gif" width="100%" alt="Medical Imaging">
+  </p>
 
 ---
 
