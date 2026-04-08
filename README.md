@@ -129,7 +129,6 @@ For more details about my work and projects, visit my [portfolio website](https:
  | **Software Engineering** | Python, C++, Object-Oriented Design, Git, Debugging, Unit Testing                |
 
 ---
-
 ## GitHub Stats
 
 <div align="center">
@@ -146,6 +145,6 @@ For more details about my work and projects, visit my [portfolio website](https:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,50:1a1f35,100:0d1117&height=100&section=footer" />
 
-*Building systems that see and understand the world one model at a time.*
+<em>Building systems that see and understand the world one model at a time.</em>
 
 </div>
