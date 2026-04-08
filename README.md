@@ -55,8 +55,13 @@ My work lives at the intersection of computer vision, deep learning, and generat
   The system tracks both players and the shuttlecock, detects shot events, projects motion onto a mini-court representation, and generates a downloadable coach-style performance report.
 
   <p align="center">
-      <img src="https://raw.githubusercontent.com/amramer/Badminton-visionAI/main/demos/badminton-visionAI_01.gif" width="100%" alt="badminton analysis">
+      <img src="https://raw.githubusercontent.com/amramer/Badminton-visionAI/main/demos/badminton-visionAI_01.gif" width="100%" alt="badminton analysis demo 1">
   </p>
+
+ <p align="center">
+   <img src="https://raw.githubusercontent.com/amramer/Badminton-visionAI/main/demos/badminton-visionAI_02.gif" width="100%" alt="badminton analysis demo 2">
+  </p>
+
 
 - **Tech Stack:** Python · PyTorch · OpenCV · YOLO · ByteTrack · Streamlit · SAM · Plotly · Docker · CUDA
     TrackNet · CI/CD Pipeline · Homography · Body Poses estimation · 3D Motion Trajectories
@@ -129,6 +134,7 @@ For more details about my work and projects, visit my [portfolio website](https:
  | **Software Engineering** | Python, C++, Object-Oriented Design, Git, Debugging, Unit Testing                |
 
 ---
+
 ## GitHub Stats
 
 <div align="center">
