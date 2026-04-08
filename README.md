@@ -1,6 +1,6 @@
 <div align="center">
   
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0e75b6&height=180&section=header&text=Amr%20Amer&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Machine%20Learning%20Engineer%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20Multimodal%20AI&descSize=16&descAlignY=60&descColor=8b949e" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0e75b6&height=300&section=header&text=Amr%20Amer&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Machine%20Learning%20Engineer%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20Multimodal%20AI&descSize=16&descAlignY=60&descColor=8b949e" />
 
 <p>
   <a href="https://amramer.github.io/">
