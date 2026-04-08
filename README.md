@@ -2,7 +2,7 @@
 **amramer/amramer** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
 -->
 
-<h1 align="center">Amr Amer</h1>
+<h1 align="center">✨Amr Amer✨</h1>
 
 <p align="center">
 <strong>Machine Learning Engineer • Computer Vision • Multimodal Generative Models</strong>
