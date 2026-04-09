@@ -55,11 +55,11 @@ My work lives at the intersection of computer vision, deep learning, and generat
   The system tracks both players and the shuttlecock, detects shot events, projects motion onto a mini-court representation, and generates a downloadable coach-style performance report.
 
   <p align="center">
-      <img src="https://raw.githubusercontent.com/amramer/Badminton-visionAI/main/demos/badminton-visionAI_01.gif" width="100%" alt="badminton analysis demo 1">
+      <img src="https://raw.githubusercontent.com/amramer/Badminton-visionAI/main/demos/badminton-visionAI_01.gif" width="80%" alt="badminton analysis demo 1">
   </p>
 
  <p align="center">
-   <img src="https://raw.githubusercontent.com/amramer/Badminton-visionAI/main/demos/badminton-visionAI_02.gif" width="100%" alt="badminton analysis demo 2">
+   <img src="https://raw.githubusercontent.com/amramer/Badminton-visionAI/main/demos/badminton-visionAI_02.gif" width="80%" alt="badminton analysis demo 2">
   </p>
 
 
