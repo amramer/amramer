@@ -24,9 +24,9 @@
 
 ## 👋 About Me
 
-I build intelligent systems that **see, understand, and generate human behavior** — from multimodal avatar generation to real-time sports analytics and autonomous driving perception.
+I build intelligent visual systems that see, understand, and generate , from multimodal 3D avatar generation and real-time sports analytics to medical imaging and autonomous driving perception.
 
-My work lives at the intersection of **computer vision**, **deep learning**, and **generative modeling**, with a focus on pushing research-grade systems toward scalable, deployable, real-world solutions.
+My work lives at the intersection of computer vision, deep learning, and generative modeling, with a focus on pushing research-grade systems toward scalable, real-world solutions.
 
 ---
 
