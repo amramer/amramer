@@ -52,11 +52,11 @@ A **multimodal generative model** for synthesizing realistic listener avatars in
 An **end-to-end computer vision pipeline** for badminton match analysis that converts raw match footage into structured performance analytics for players and coaches. The system tracks players and the shuttlecock, detects shot events, projects motion onto a mini-court representation, and generates a downloadable coach-style performance report.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/amramer/Badminton-visionAI/main/demos/badminton-visionAI_01.gif" width="80%" alt="Badminton analysis demo 1" />
+  <img src="https://github.com/amramer/amramer.github.io/main/assets/badminton-visionAI_01.gif" width="100%" alt="Badminton analysis demo 1" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/amramer/Badminton-visionAI/main/demos/badminton-visionAI_02.gif" width="80%" alt="Badminton analysis demo 2" />
+  <img src="https://github.com/amramer/amramer.github.io/main/assets/badminton-visionAI_02.gif" width="100%" alt="Badminton analysis demo 2" />
 </p>
 
 **Tech Stack:**
@@ -133,13 +133,13 @@ An AI agent that goes beyond a standard chatbot — combining **real-time voice 
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=amramer&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0e75b6&icon_color=0e75b6&text_color=8b949e&rank_icon=github" />
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amramer&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0e75b6&text_color=8b949e&langs_count=6" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=amramer&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0e75b6&icon_color=0e75b6&text_color=8b949e&rank_icon=github&cache_seconds=86400" />
 
-</div>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amramer&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0e75b6&text_color=8b949e&langs_count=6&cache_seconds=86400" />
+
+</p>
 
 ---
 
