@@ -1,62 +1,6 @@
 <div align="center">
 
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 300" width="860" height="300">
-  <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%"   stop-color="#0d1117"/>
-      <stop offset="50%"  stop-color="#1a1f35"/>
-      <stop offset="100%" stop-color="#0e75b6"/>
-    </linearGradient>
-  </defs>
-
-  <rect width="860" height="300" fill="url(#bg)" rx="8"/>
-
-  <!-- top wave -->
-  <path d="M0,40 C200,0 500,80 860,30 L860,0 L0,0Z" fill="#1a1f35" opacity="0.4"/>
-  <!-- bottom wave -->
-  <path d="M0,270 C250,240 550,295 860,260 L860,300 L0,300Z" fill="#0e75b6" opacity="0.3"/>
-
-  <!-- "Amr Amer" — each letter animates in -->
-  <text font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
-        font-size="72" font-weight="700" fill="#ffffff"
-        text-anchor="middle" x="430" y="170">
-    <tspan>
-      <animate attributeName="opacity" values="0;1" dur="0.4s" begin="0.1s" fill="freeze"/>
-      A
-    </tspan>
-    <tspan dx="-2">
-      <animate attributeName="opacity" values="0;1" dur="0.4s" begin="0.22s" fill="freeze"/>
-      m
-    </tspan>
-    <tspan>
-      <animate attributeName="opacity" values="0;1" dur="0.4s" begin="0.34s" fill="freeze"/>
-      r
-    </tspan>
-    <tspan dx="24">
-      <animate attributeName="opacity" values="0;1" dur="0.4s" begin="0.52s" fill="freeze"/>
-      A
-    </tspan>
-    <tspan>
-      <animate attributeName="opacity" values="0;1" dur="0.4s" begin="0.64s" fill="freeze"/>
-      m
-    </tspan>
-    <tspan>
-      <animate attributeName="opacity" values="0;1" dur="0.4s" begin="0.76s" fill="freeze"/>
-      e
-    </tspan>
-    <tspan>
-      <animate attributeName="opacity" values="0;1" dur="0.4s" begin="0.88s" fill="freeze"/>
-      r
-    </tspan>
-  </text>
-
-  <!-- subtitle -->
-  <text font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
-        font-size="15" fill="#8b949e" text-anchor="middle" x="430" y="215" opacity="0">
-    Machine Learning Engineer • Computer Vision • Multimodal AI
-    <animate attributeName="opacity" values="0;1" dur="0.6s" begin="1.2s" fill="freeze"/>
-  </text>
-</svg>
+<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4NjAgMzAwIiB3aWR0aD0iODYwIiBoZWlnaHQ9IjMwMCI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImJnIiB4MT0iMCUiIHkxPSIwJSIgeDI9IjEwMCUiIHkyPSIxMDAlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgICBzdG9wLWNvbG9yPSIjMGQxMTE3Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iNTAlIiAgc3RvcC1jb2xvcj0iIzFhMWYzNSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiMwZTc1YjYiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IHdpZHRoPSI4NjAiIGhlaWdodD0iMzAwIiBmaWxsPSJ1cmwoI2JnKSIgcng9IjgiLz4KICA8cGF0aCBkPSJNMCw0MCBDMjAwLDAgNTAwLDgwIDg2MCwzMCBMODYwLDAgTDAsMFoiIGZpbGw9IiMxYTFmMzUiIG9wYWNpdHk9IjAuNCIvPgogIDxwYXRoIGQ9Ik0wLDI3MCBDMjUwLDI0MCA1NTAsMjk1IDg2MCwyNjAgTDg2MCwzMDAgTDAsMzAwWiIgZmlsbD0iIzBlNzViNiIgb3BhY2l0eT0iMC4zIi8+CiAgPHRleHQgZm9udC1mYW1pbHk9Ii1hcHBsZS1zeXN0ZW0sQmxpbmtNYWNTeXN0ZW1Gb250LCdTZWdvZSBVSScsc2Fucy1zZXJpZiIgZm9udC1zaXplPSI3MiIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsbD0iI2ZmZmZmZiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgeD0iNDMwIiB5PSIxNzAiIG9wYWNpdHk9IjAiPgogICAgQW1yIEFtZXIKICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9Im9wYWNpdHkiIHZhbHVlcz0iMDswOzEiIGtleVRpbWVzPSIwOzAuMDU7MSIgZHVyPSIxLjRzIiBiZWdpbj0iMHMiIGZpbGw9ImZyZWV6ZSIvPgogICAgPGFuaW1hdGVUcmFuc2Zvcm0gYXR0cmlidXRlTmFtZT0idHJhbnNmb3JtIiB0eXBlPSJ0cmFuc2xhdGUiIHZhbHVlcz0iMCwyMDswLDIwOzAsMCIga2V5VGltZXM9IjA7MC4wNTsxIiBkdXI9IjEuNHMiIGJlZ2luPSIwcyIgZmlsbD0iZnJlZXplIiBhZGRpdGl2ZT0ic3VtIi8+CiAgPC90ZXh0PgogIDx0ZXh0IGZvbnQtZmFtaWx5PSItYXBwbGUtc3lzdGVtLEJsaW5rTWFjU3lzdGVtRm9udCwnU2Vnb2UgVUknLHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTUiIGZpbGw9IiM4Yjk0OWUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIHg9IjQzMCIgeT0iMjE1IiBvcGFjaXR5PSIwIj4KICAgIE1hY2hpbmUgTGVhcm5pbmcgRW5naW5lZXIg4oCiIENvbXB1dGVyIFZpc2lvbiDigKIgTXVsdGltb2RhbCBBSQogICAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0ib3BhY2l0eSIgdmFsdWVzPSIwOzA7MSIga2V5VGltZXM9IjA7MC42OzEiIGR1cj0iMnMiIGJlZ2luPSIwcyIgZmlsbD0iZnJlZXplIi8+CiAgPC90ZXh0Pgo8L3N2Zz4K" />
 
 <p>
   <a href="https://amramer.github.io/">
