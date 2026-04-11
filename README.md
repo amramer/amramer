@@ -131,18 +131,6 @@ An AI agent that goes beyond a standard chatbot — combining **real-time voice 
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=amramer&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0e75b6&icon_color=0e75b6&text_color=8b949e&rank_icon=github&cache_seconds=86400" />
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amramer&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0e75b6&text_color=8b949e&langs_count=6&cache_seconds=86400" />
-
-</p>
-
----
-
 ## 🌐 Portfolio
 
 For a full overview of my work, visit **[amramer.github.io](https://amramer.github.io/)**.
