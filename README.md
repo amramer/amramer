@@ -50,11 +50,11 @@ A **multimodal generative model** for synthesizing realistic listener avatars in
 An **end-to-end computer vision pipeline** for badminton match analysis that converts raw match footage into structured performance analytics for players and coaches. The system tracks players and the shuttlecock, detects shot events, projects motion onto a mini-court representation, and generates a downloadable coach-style performance report.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/amramer/portofolio-amramer/main/assets/badminton-visionAI_01.gif" width="100%" alt="Badminton analysis demo 1" />
+  <img src="https://raw.githubusercontent.com/amramer/amramer.github.io/main/assets/badminton-visionAI_01.gif" width="100%" alt="Badminton analysis demo 1" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/amramer/portofolio-amramer/main/assets/badminton-visionAI_02.gif" width="100%" alt="Badminton analysis demo 2" />
+  <img src="https://raw.githubusercontent.com/amramer/amramer.github.io/main/assets/badminton-visionAI_02.gif" width="100%" alt="Badminton analysis demo 2" />
 </p>
 
 **Tech Stack:**
