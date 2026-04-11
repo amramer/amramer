@@ -1,6 +1,62 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0e75b6&height=300&section=header&text=Amr%20Amer&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Machine%20Learning%20Engineer%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20Multimodal%20AI&descSize=16&descAlignY=60&descColor=8b949e" />
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 300" width="860" height="300">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%"   stop-color="#0d1117"/>
+      <stop offset="50%"  stop-color="#1a1f35"/>
+      <stop offset="100%" stop-color="#0e75b6"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="860" height="300" fill="url(#bg)" rx="8"/>
+
+  <!-- top wave -->
+  <path d="M0,40 C200,0 500,80 860,30 L860,0 L0,0Z" fill="#1a1f35" opacity="0.4"/>
+  <!-- bottom wave -->
+  <path d="M0,270 C250,240 550,295 860,260 L860,300 L0,300Z" fill="#0e75b6" opacity="0.3"/>
+
+  <!-- "Amr Amer" — each letter animates in -->
+  <text font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+        font-size="72" font-weight="700" fill="#ffffff"
+        text-anchor="middle" x="430" y="170">
+    <tspan>
+      <animate attributeName="opacity" values="0;1" dur="0.4s" begin="0.1s" fill="freeze"/>
+      A
+    </tspan>
+    <tspan dx="-2">
+      <animate attributeName="opacity" values="0;1" dur="0.4s" begin="0.22s" fill="freeze"/>
+      m
+    </tspan>
+    <tspan>
+      <animate attributeName="opacity" values="0;1" dur="0.4s" begin="0.34s" fill="freeze"/>
+      r
+    </tspan>
+    <tspan dx="24">
+      <animate attributeName="opacity" values="0;1" dur="0.4s" begin="0.52s" fill="freeze"/>
+      A
+    </tspan>
+    <tspan>
+      <animate attributeName="opacity" values="0;1" dur="0.4s" begin="0.64s" fill="freeze"/>
+      m
+    </tspan>
+    <tspan>
+      <animate attributeName="opacity" values="0;1" dur="0.4s" begin="0.76s" fill="freeze"/>
+      e
+    </tspan>
+    <tspan>
+      <animate attributeName="opacity" values="0;1" dur="0.4s" begin="0.88s" fill="freeze"/>
+      r
+    </tspan>
+  </text>
+
+  <!-- subtitle -->
+  <text font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+        font-size="15" fill="#8b949e" text-anchor="middle" x="430" y="215" opacity="0">
+    Machine Learning Engineer • Computer Vision • Multimodal AI
+    <animate attributeName="opacity" values="0;1" dur="0.6s" begin="1.2s" fill="freeze"/>
+  </text>
+</svg>
 
 <p>
   <a href="https://amramer.github.io/">
@@ -15,10 +71,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-
 </div>
-
----
 
 ## 👋 About Me
 
