@@ -1,15 +1,11 @@
 <div align="center">
 
-<!-- Wave background (keeps your theme) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0e75b6&height=200&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0e75b6&height=120&section=header" />
 
-<!-- Animated name -->
-<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=700&size=60&duration=3000&pause=1500&color=FFFFFF&center=true&vCenter=true&width=500&height=80&lines=Amr+Amer" />
+<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=700&size=60&duration=6000&pause=3000&color=FFFFFF&center=true&vCenter=true&width=500&height=80&lines=Amr+Amer" />
 
-<!-- Subtitle -->
 <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=16&duration=4000&pause=2000&color=8B949E&center=true&vCenter=true&width=700&height=30&lines=Machine+Learning+Engineer+%E2%80%A2+Computer+Vision+%E2%80%A2+Multimodal+AI" />
 
-<!-- Wave footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,50:1a1f35,100:0d1117&height=80&section=footer" />
 
 <p>
