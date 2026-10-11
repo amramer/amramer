@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="61" height="28" viewBox="0 0 61 28" role="img" aria-label="Cv">
+<title>Cv</title>
+<rect width="61" height="28" fill="#333333"/>
+<g transform="translate(12 7) scale(0.58333)"><g fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><path d="M14 2v6h6M16 13H8M16 17H8M10 9H8"/></g></g>
+<text x="33" y="18" fill="#fff" font-family="Verdana,Geneva,'DejaVu Sans',sans-serif" font-size="10" font-weight="bold" letter-spacing="1.25" textLength="16.3" lengthAdjust="spacingAndGlyphs">CV</text>
+</svg>

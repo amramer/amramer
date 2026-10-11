@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="119" height="28" viewBox="0 0 119 28" role="img" aria-label="Portfolio">
+<title>Portfolio</title>
+<rect width="119" height="28" fill="#0b6e69"/>
+<g transform="translate(12 7) scale(0.58333)"><g fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M2 12h20M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></g></g>
+<text x="33" y="18" fill="#fff" font-family="Verdana,Geneva,'DejaVu Sans',sans-serif" font-size="10" font-weight="bold" letter-spacing="1.25" textLength="73.8" lengthAdjust="spacingAndGlyphs">PORTFOLIO</text>
+</svg>
