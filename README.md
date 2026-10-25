@@ -21,7 +21,7 @@ Currently seeking roles in Machine Learning Engineering and Computer Vision.
 
 ## Featured projects
 
-### [Master's thesis: Personality-Aware Non-verbal Behavior Generation](https://github.com/amramer/Personality-Aware-Non-verbal-Behavior-Generation)
+### [Personality-Aware Non-verbal Behavior Generation](https://github.com/amramer/Personality-Aware-Non-verbal-Behavior-Generation)
 
 A **multimodal generative model** for synthesizing realistic listener avatars in dyadic conversations, conditioned on personality traits. The model predicts facial expressions, head motion and upper-body gestures of a listener from the speaker's audio and motion signals.
 
