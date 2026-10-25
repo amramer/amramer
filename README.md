@@ -15,9 +15,7 @@ M.Sc. Visual Computing, Saarland University · Research engineering experience a
 
 ## About me
 
-I build intelligent visual systems that see, understand and generate, from multimodal 3D avatar generation and real-time sports analytics to medical imaging and autonomous driving perception.
-
-My work lives at the intersection of computer vision, deep learning and generative modeling, with a focus on pushing research-grade systems toward scalable, real-world solutions. On the data and MLOps side, I build reproducible pipelines with DVC, Airflow, Spark and MLflow, add automated data-quality gates, and ship models with Docker, Kubernetes and CI/CD on GitHub Actions.
+My work lives at the intersection of computer vision, deep learning and generative modeling, with a focus on pushing research-grade systems toward scalable, real-world solutions. On the data and MLOps side, I build reproducible pipelines with DVC, Airflow, Spark and MLflow, add automated data-quality gates, and ship models with Docker, Kubernetes and CI/CD pipelines.
 
 Currently seeking roles in Machine Learning Engineering and Computer Vision.
 
